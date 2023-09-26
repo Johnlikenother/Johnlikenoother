@@ -1,12 +1,12 @@
 <h1>Hi, I'm John! 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-
+  - [ Drafting a professional statement]
 
   - [Active Directory Home Lab](https://github.com/Johnlikenother/Johnlikenoother)
 
 
-<h2> Certifications</h2>
+<h2> 📑Certifications</h2>
 
 
   
